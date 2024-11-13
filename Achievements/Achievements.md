@@ -11,6 +11,6 @@
 10. Old (reach Senior Java Developer) :x:
 11. Enthusiast (12 continuous hours spent in the game in 1 day) :x:
 12. Idiot (finding a minor bug for a few hours) :x:
-13. Steal Theory (reading 3 Java books) :x:
+13. Stole the Theory (reading 3 Java books) :x:
 14. Dedicated practitioner (solving all tasks on w3resource and javarush) :x:
 15. Blitzkrieg (solving 10 tasks in 2 hours) :x:
