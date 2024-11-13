@@ -15,5 +15,5 @@ Why is this a game ?)
 3. Have fun and spend as much time as possible in the game.
 
 ### Ways of playing:  
-JavaRush, Udemy courses, by creating same programs/projects/games multiple times, Java mobile apps, by reading books, w3resource exercises.
+JavaRush course, Udemy courses, by creating same programs/projects/games multiple times, Java mobile apps, by reading books, w3resource exercises.
 
