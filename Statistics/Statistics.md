@@ -14,4 +14,4 @@ Reward: Sushi
 ## Global Statistics
 Rewards received: Samsa
 
-Achievements received: Hello World (oct 2024)
+Achievements received: Hello World (Oct. 2024)
