@@ -9,10 +9,14 @@ Goal: 100 hours
 
 Reward: Sushi  
 
+Currently Streak: 2 days 
+
 0 ------|--------------------- 100h  
 <br><br>
 
 ## Global Statistics
+Best Streak: 2 days
+
 Rewards received: Samsa
 
 Achievements received: Hello World (Oct. 2024)
