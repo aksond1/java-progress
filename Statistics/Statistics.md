@@ -1,7 +1,7 @@
 # Recent Activity
 Last played on 24 Nov  
 
-Hours spent this week: 5.13  
+Hours spent this week: 0.40  
 
 Total hours spent: 26.40  
 
