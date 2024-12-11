@@ -1,21 +1,21 @@
 # Recent Activity
-Last played on 10 Dec  
+Last played on 11 Dec  
 
-Hours spent this week: 1.24  
+Hours spent this week: 1.58  
 
-Total hours spent: 40.02  
+Total hours spent: 40.36  
 
 Goal: 100 hours  
 
 Reward: Sushi  
 
-Currently Streak: 28 days 
+Currently Streak: 29 days 
 
 0 ---------|------------------ 100h  
 <br><br>
 
 ## Global Statistics
-Best Streak: 28 days
+Best Streak: 29 days
 
 Rewards received: Samsa
 
