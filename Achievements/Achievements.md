@@ -13,4 +13,4 @@
 12. Idiot (finding a minor bug for a few hours) :x:
 13. Stole the Theory (reading 3 Java books) :x:
 14. Dedicated practitioner (solving all tasks on w3resource and javarush) :x:
-15. Blitzkrieg (solving 10 tasks in 2 hours) :x:
+15. Blitzkrieg (solving 10 tasks in 2 hours) :white_check_mark:
