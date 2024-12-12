@@ -5,7 +5,7 @@
 4. ITpsycho (first 1000 hours) :x:
 5. Developer's Paralysis (first 5000 hours) :x:
 6. Java King (first 10000 hours) :x:
-7. Rush Hour (lvl 40 on JavaRush) :x:
+7. Rush Hour (lvl 50 on JavaRush) :x:
 8. Gamer (creating 5 Java games) :x:
 9. I'm new here (first job) :x:
 10. Old (reach Senior Java Developer) :x:
