@@ -1,9 +1,9 @@
 # Recent Activity
 Last played on 14 Dec  
 
-Hours spent this week: 6.31  
+Hours spent this week: 7.31  
 
-Total hours spent: 45.09  
+Total hours spent: 46.09  
 
 Goal: 100 hours  
 
