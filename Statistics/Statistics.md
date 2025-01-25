@@ -1,15 +1,15 @@
 # Recent Activity
-Last played on 24 Jan  
+Last played on 25 Jan  
 
-Hours spent this week: 4.52  
+Hours spent this week: 5.02  
 
-Total hours spent: 82.50  
+Total hours spent: 83.00  
 
 Goal: 100 hours  
 
 Reward: Sushi  
 
-Currently Streak: 12 days 
+Currently Streak: 13 days 
 
 0 --------------------|------- 100h  
 <br><br>
