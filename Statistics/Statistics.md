@@ -1,15 +1,15 @@
 # Recent Activity
-Last played on 10 Feb  
+Last played on 11 Feb  
 
-Hours Spent This Week: 01.00  
+Hours Spent This Week: 02.58  
 
-Total Hours Spent: 103.55  
+Total Hours Spent: 106.53  
 
 Current Goal: 500 hours  
 
 Next Reward: Blluryface - Album Cover Poster 
 
-Currently Streak: 29 days 
+Currently Streak: 30 days 
 
 0 -----|---------------------- 500h  
 <br><br>
