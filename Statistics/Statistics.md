@@ -1,15 +1,15 @@
 # Recent Activity
-Last played on 01 Mar  
+Last played on 02 Mar  
 
-Hours Spent This Week: 4.14  
+Hours Spent This Week: 4.36  
 
-Total Hours Spent: 124.25  
+Total Hours Spent: 124.47  
 
 Current Goal: 500 hours  
 
 Next Reward: Album Cover Posters 
 
-Currently Streak: 48 days 
+Currently Streak: 49 days 
 
 0 -----|---------------------- 500h  
 <br><br>
