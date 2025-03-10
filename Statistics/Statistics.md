@@ -1,9 +1,9 @@
 # Recent Activity
 Last played on 10 Mar  
 
-Hours Spent This Week: 1.16  
+Hours Spent This Week: 2.16  
 
-Total Hours Spent: 136.01  
+Total Hours Spent: 137.01  
 
 Current Goal: 500 hours  
 
