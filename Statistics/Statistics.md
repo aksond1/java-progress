@@ -1,21 +1,21 @@
 # Recent Activity
-Last played on 15 Mar  
+Last played on 16 Mar  
 
-Hours Spent This Week: 10.19  
+Hours Spent This Week: 11.19  
 
-Total Hours Spent: 146.04  
+Total Hours Spent: 147.04  
 
 Current Goal: 500 hours  
 
 Next Reward: Album Cover Posters 
 
-Currently Streak: 62 days 
+Currently Streak: 63 days 
 
 0 -------|-------------------- 500h  
 <br><br>
 
 ## Global Statistics
-Best Streak: 62 days
+Best Streak: 63 days
 
 Rewards received: Samsa, Sushi
 
