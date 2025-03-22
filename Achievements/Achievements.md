@@ -9,7 +9,7 @@
 8. I'm new here (first job) :x:
 9. Old (reach Senior Java Developer) :x:
 10. Gear 1 (12 continuous hours spent in the game) :white_check_mark:
-11. Gear 2 (24 continuous hours spent in the game) :x:
+11. Gear 2 (24 continuous hours spent in the game) :white_check_mark:
 12. Gear 3 (36 continuous hours spent in the game) :x:
 13. Idiot (search for a minor bug within a few hours) :x:
 14. Stole the Theory (read 3 books about Java/IT) :x:
