@@ -4,7 +4,7 @@
 3. Programmer's Echo (first 500 hours) :x:
 4. Developer's Paralysis (first 1000 hours) :x:
 5. Java King (first 5000 hours) :x:
-6. Rush Hour (lvl 40+ on JavaRush) :x:
+6. Rush Hour (lvl 40+ on JavaRush) :white_check_mark:
 7. Gamer (create 3 Java games) :x:
 8. I'm new here (first job) :x:
 9. Old (reach Senior Java Developer) :x:
