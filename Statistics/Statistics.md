@@ -1,22 +1,23 @@
 # Recent Activity
-Last played on 16 Apr  
+Last played on 17 Apr  
 
-Hours Spent This Week: 02.14  
+Hours Spent This Week: 02.54  
 
-Total Hours Spent: 204.53  
+Total Hours Spent: 205.33  
 
 Current Goal: 500 hours  
 
 Next Reward: Album Cover Posters 
 
-Currently Streak: 94 days 
+Currently Streak: 95 days 
 
 0 ---------|------------------ 500h  
 <br><br>
 
 ## Global Statistics
-Best Streak: 94 days
+Best Streak: 95 days
 
 Rewards received: Samsa, Sushi
 
-Achievements received: Hello World (Oct. 2024), Blitzkrieg (Dec. 2024), Gear 1 (Jan. 2025), Cyberbullying (Feb. 2025), Gear 2 (Mar. 2025)
+Achievements received: Hello World (Oct. 2024), Blitzkrieg (Dec. 2024), Gear 1 (Jan. 2025), Cyberbullying (Feb. 2025), Gear 2 (Mar. 2025),  
+Rush Hour (Apr. 2025)
