@@ -15,7 +15,7 @@ Currently Streak: 1 days
 <br><br>
 
 ## Global Statistics
-Best Streak: 1 days
+Best Streak: 95 days
 
 Rewards received: Samsa, Sushi
 
