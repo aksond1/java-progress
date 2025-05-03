@@ -13,8 +13,7 @@
 12. Gear 3 (36 continuous hours spent in the game) :x:
 13. Idiot (search for a minor bug within a few hours) :x:
 14. Stole the Theory (read 3 books about Java/IT) :x:
-15. Dedicated practitioner (solve all tasks on w3resource and javarush) :x:
-16. Blitzkrieg (solve 10 tasks in 2 hours) :white_check_mark:
-17. Hell Yeah (play for 4 hours in a row while drinking beer) :x:
-18. What a Streak! (have a 500-day streak) :x:
+15. Blitzkrieg (solve 10 tasks in 2 hours) :white_check_mark:
+16. Hell Yeah (play for 4 hours in a row while drinking beer) :x:
+17. What a Streak! (have a 300-day streak) :x:
 
