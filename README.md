@@ -1,5 +1,5 @@
 
-# Javka
+# Javka | Java Progress
 What is Javka ?  
 - Javka is a game where I can track and note my progress in learning Java.  
 
