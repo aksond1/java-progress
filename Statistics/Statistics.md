@@ -1,15 +1,15 @@
 # Recent Activity
-Last played on 24 May  
+Last played on 25 May  
 
-Hours Spent This Week: 04.54  
+Hours Spent This Week: 05.34  
 
-Total Hours Spent: 245.37  
+Total Hours Spent: 246.17  
 
 Current Goal: 500 hours  
 
 Next Reward: Webcam
 
-Currently Streak: 35 days 
+Currently Streak: 36 days 
 
 0 ------------|--------------- 500h  
 <br><br>
