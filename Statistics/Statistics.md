@@ -9,7 +9,7 @@ Current Goal: 500 hours
 
 Next Reward: Webcam
 
-Currently Streak: 46 days 
+Currently Streak: 47 days 
 
 0 ------------|--------------- 500h  
 <br><br>
